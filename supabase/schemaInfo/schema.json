@@ -1,0 +1,1163 @@
+[
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "boolean_enum",
+    "column_name": null,
+    "type": null,
+    "nullable": "Yes",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "boolean_enum",
+    "column_name": null,
+    "type": null,
+    "nullable": "No",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "frequency",
+    "column_name": null,
+    "type": null,
+    "nullable": "Yearly",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "frequency",
+    "column_name": null,
+    "type": null,
+    "nullable": "Monthly",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "75 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "65 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "70 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "20 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "25 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "30 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "35 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "40 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "45 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "50 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "55 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "giveaway",
+    "column_name": null,
+    "type": null,
+    "nullable": "60 Rs",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "marketplace",
+    "column_name": null,
+    "type": null,
+    "nullable": "Flipkart",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "marketplace",
+    "column_name": null,
+    "type": null,
+    "nullable": "Amazon",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "package_insert_style_size",
+    "column_name": null,
+    "type": null,
+    "nullable": "Basic (3.5\" X 8.5\")",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "package_insert_style_size",
+    "column_name": null,
+    "type": null,
+    "nullable": "Stadard (4\" X 6\")",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "package_insert_style_size",
+    "column_name": null,
+    "type": null,
+    "nullable": "Stadard (3.5\" X 8.5\")",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "package_insert_style_size",
+    "column_name": null,
+    "type": null,
+    "nullable": "Basic (4\" X 6\")",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "plan_name",
+    "column_name": null,
+    "type": null,
+    "nullable": "Unpaid",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "plan_name",
+    "column_name": null,
+    "type": null,
+    "nullable": "Starter",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "plan_name",
+    "column_name": null,
+    "type": null,
+    "nullable": "Professional",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "plan_name",
+    "column_name": null,
+    "type": null,
+    "nullable": "Enterprise",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "subscription_status",
+    "column_name": null,
+    "type": null,
+    "nullable": "INACTIVE",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "subscription_status",
+    "column_name": null,
+    "type": null,
+    "nullable": "PAUSED",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "subscription_status",
+    "column_name": null,
+    "type": null,
+    "nullable": "CANCELLED",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "subscription_status",
+    "column_name": null,
+    "type": null,
+    "nullable": "ACTIVE",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "survey_status",
+    "column_name": null,
+    "type": null,
+    "nullable": "ACTIVE",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "survey_status",
+    "column_name": null,
+    "type": null,
+    "nullable": "PAUSED",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "survey_style",
+    "column_name": null,
+    "type": null,
+    "nullable": "Simple",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "survey_style",
+    "column_name": null,
+    "type": null,
+    "nullable": "WithInfo",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "voucher_status",
+    "column_name": null,
+    "type": null,
+    "nullable": "Available",
+    "relationship_info": null
+  },
+  {
+    "category": "Enum",
+    "schema_name": "public",
+    "table_name": "voucher_status",
+    "column_name": null,
+    "type": null,
+    "nullable": "Consumed",
+    "relationship_info": null
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "coupons",
+    "column_name": "user_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References users(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "orders",
+    "column_name": "user_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References users(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "survey_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References surveys(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "user_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References users(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "user_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References users(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "survey_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References surveys(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "user_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References users(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "user_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References users(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "survey_products",
+    "column_name": "product_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References products(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "survey_products",
+    "column_name": "survey_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References surveys(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "user_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References users(id)"
+  },
+  {
+    "category": "Foreign Key",
+    "schema_name": "public",
+    "table_name": "vouchers",
+    "column_name": "user_id",
+    "type": null,
+    "nullable": null,
+    "relationship_info": "References users(id)"
+  },
+  {
+    "category": "Function",
+    "schema_name": "public",
+    "table_name": "get_all_enums",
+    "column_name": "json",
+    "type": "",
+    "nullable": "CREATE OR REPLACE FUNCTION public.get_all_enums()\n RETURNS json",
+    "relationship_info": null
+  },
+  {
+    "category": "Function",
+    "schema_name": "public",
+    "table_name": "update_updated_at_column",
+    "column_name": "trigger",
+    "type": "",
+    "nullable": "CREATE OR REPLACE FUNCTION public.update_updated_at_column()\n R",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "coupons",
+    "column_name": "available_count",
+    "type": "integer",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "coupons",
+    "column_name": "created_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "coupons",
+    "column_name": "id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "coupons",
+    "column_name": "updated_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "coupons",
+    "column_name": "user_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "coupons",
+    "column_name": "voucher_code",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "orders",
+    "column_name": "created_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "orders",
+    "column_name": "id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "orders",
+    "column_name": "marketplace",
+    "type": "USER-DEFINED",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "orders",
+    "column_name": "order_id",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "orders",
+    "column_name": "updated_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "orders",
+    "column_name": "user_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "background_color",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "brand_url",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "created_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "headline",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "name",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "style_size",
+    "type": "USER-DEFINED",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "subtitle",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "survey_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "updated_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "package_inserts",
+    "column_name": "user_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "created_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "giveaway",
+    "type": "USER-DEFINED",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "image_path",
+    "type": "text",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "marketplace",
+    "type": "USER-DEFINED",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "marketplace_product_id",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "name",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "thumbnail_path",
+    "type": "text",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "updated_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "products",
+    "column_name": "user_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "created_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "email_id",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "first_name",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "last_name",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "order_id",
+    "type": "integer",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "rating",
+    "type": "integer",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "review",
+    "type": "text",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "survey_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "updated_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "reviews",
+    "column_name": "user_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "created_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "end_date",
+    "type": "timestamp with time zone",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "overage_count",
+    "type": "integer",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "plan_type",
+    "type": "USER-DEFINED",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "review_limit",
+    "type": "integer",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "reviews_count",
+    "type": "integer",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "start_date",
+    "type": "timestamp with time zone",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "status",
+    "type": "USER-DEFINED",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "updated_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "subscriptions",
+    "column_name": "user_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "survey_products",
+    "column_name": "created_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "survey_products",
+    "column_name": "id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "survey_products",
+    "column_name": "product_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "survey_products",
+    "column_name": "survey_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "survey_products",
+    "column_name": "updated_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "created_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "marketplace_review_required",
+    "type": "boolean",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "minimum_review_length",
+    "type": "integer",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "minimum_star_rating",
+    "type": "integer",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "qr_code",
+    "type": "text",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "survey_name",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "survey_status",
+    "type": "USER-DEFINED",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "survey_style",
+    "type": "USER-DEFINED",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "time_delay",
+    "type": "integer",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "updated_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "url",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "surveys",
+    "column_name": "user_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "vouchers",
+    "column_name": "coupon_code",
+    "type": "character varying",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "vouchers",
+    "column_name": "created_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "vouchers",
+    "column_name": "id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "vouchers",
+    "column_name": "status",
+    "type": "USER-DEFINED",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "vouchers",
+    "column_name": "updated_at",
+    "type": "timestamp with time zone",
+    "nullable": "YES",
+    "relationship_info": null
+  },
+  {
+    "category": "Table/Column",
+    "schema_name": "public",
+    "table_name": "vouchers",
+    "column_name": "user_id",
+    "type": "uuid",
+    "nullable": "NO",
+    "relationship_info": null
+  }
+]
